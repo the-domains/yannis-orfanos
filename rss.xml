@@ -2,17 +2,24 @@
     <channel>
         <title><![CDATA[Yannis Orfanos]]></title>
         <description><![CDATA[Yannis Orfanos]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/yannis-orfanos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 17:58:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jan 2016 21:42:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yannis-orfanos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Next Generation Infrastructure]]></title>
+            <description><![CDATA[<article><h1>Next Generation Infrastructure</h1><p>Based on research findings from a data-driven approach on urban water management for the Zofnass Program, I supervised the development of a web tool for non-expert awareness on better managing water systems. It is an open interactive educational platform that enables community stakeholders with information.The tool has two main components: current situation (analysis) and what if (modelling). The analysis component provides an overview of the current water system, its performance, and the related geospatial information. The “what if” component identifies green infrastructure opportunities and quantifies their potential impact on city’s impervious cover, stormwater management, and the overall water system performance. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a118e50cec1ac4ab2982bd3505804e3ef85028b3.png"></article>]]></description>
+            <link>https://thegrid.ai/yannis-orfanos/next-generation-infrastructure/index.html</link>
+            <guid isPermaLink="false">4a3ff77c-6135-4817-a794-f575dc9b35b4</guid>
+            <pubDate>Sun, 03 Jan 2016 21:41:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[National Geographic]]></title>
             <description><![CDATA[<article><h1>National Geographic</h1><p>Hi! Here you can find a brief overview of my research work.
 As a data urbanist and researcher, I seek solutions that improve the quality of life in cities and address climate change risks. 
 Always passionate about the intersection of physical and digital worlds, I have been developing tools that synthesize computational, spatial and strategic frameworks.
-The tools, products of applied research both in academia and the industry, focus on efficient infrastructure systems, sustainable urban development, and enabling communities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f7eb4968fd13371d45a12ea8a9cd4d16237d3c5.jpg"></article>]]></description>
-            <link>undefined05f43787-98cf-4196-842f-6d077011c425/index.html</link>
+The tools, products of applied research both in academia and the industry, focus on efficient infrastructure systems, sustainable urban development, and enabling communities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65cad2cd17593f59eff0fcf16a47f288c064834c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/yannis-orfanos/05f43787-98cf-4196-842f-6d077011c425/index.html</link>
             <guid isPermaLink="false">05f43787-98cf-4196-842f-6d077011c425</guid>
             <pubDate>Thu, 31 Dec 2015 17:57:58 GMT</pubDate>
         </item>
