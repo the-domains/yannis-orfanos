@@ -1,7 +1,7 @@
 name: Yannis Orfanos
 favicon: null
 layout_spectrum: 0.8780363763216883
-typography_spectrum: 0.11640565376728773
+typography_spectrum: 0.81069
 title: Yannis Orfanos
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#6B574B'
     - '#160600'
   brandStrength: 0.11316233384422958
-  lightness: 0.7901507779024541
-  saturation: 0.3670995570719242
-  rhythmicContrast: 0.16455110744573176
+  lightness: 0.875
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
